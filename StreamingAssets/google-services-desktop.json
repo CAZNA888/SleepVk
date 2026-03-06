@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480642896127",
+    "project_id": "obby-build-games-gp",
+    "storage_bucket": "obby-build-games-gp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480642896127:android:1d46d51ee26f605f30fcca",
+        "android_client_info": {
+          "package_name": "obby.mini.build"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsPh8gb_n_e2KNizAtUUaBhJUMMupDcy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
