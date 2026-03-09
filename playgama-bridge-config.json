@@ -110,16 +110,6 @@
                 "amount": 50,
                 "description": "No Ads (disable advertisements)"
             }
-        },
-        {
-            "id": "11",
-            "playgama": {
-                "amount": 100
-            },
-            "playdeck": {
-                "amount": 100,
-                "description": "VIP status"
-            }
         }
     ],
     "leaderboards": [],
